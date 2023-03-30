@@ -66,6 +66,11 @@
 		      <artifactId>springdoc-openapi-ui</artifactId>
 		      <version>1.6.9</version>
 		</dependency>
+		<!--  núcleo do Hibernate -->
+		<dependency>
+		    <groupId>org.hibernate</groupId>
+		    <artifactId>hibernate-core</artifactId>
+	        </dependency>
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
